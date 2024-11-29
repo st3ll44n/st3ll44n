@@ -1,9 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=st3ll44n&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-## Sobre mim
-
 - 🤔 Explorando novas tecnologias 
 - 🎓 Aprendiz de Tecnologia da Informação na instituição SENAI DF
 - 💼 Trabalhando como Aprezdiz em Tecnologia da Informação na BRASAL REFRIGERANTES
