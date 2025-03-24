@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias 
 - 🎓 Aprendiz de Tecnologia da Informação na instituição SENAI DF
 - 💼 Trabalhando como Aprezdiz em Tecnologia da Informação na BRASAL REFRIGERANTES
-- 🌱 Aprendendo sobre desenvolvimento Front-End.
+- 🌱 Aprendendo sobre desenvolvimento Front-End e Back-End
 
 ## Minhas Skills
 
