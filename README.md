@@ -53,11 +53,6 @@
   </tr>
 </table>
 
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-
 <br/>
 
 <h3>VEZES PERFIL VISITADO 👀</h3>
@@ -69,7 +64,7 @@
     <tr>
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=VSRohod&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=stell44n&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
