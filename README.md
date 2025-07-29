@@ -54,17 +54,3 @@
 </table>
 
 <br/>
-
-<h3>VEZES PERFIL VISITADO 👀</h3>
- <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=stell44n&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
